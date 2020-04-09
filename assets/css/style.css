@@ -1,0 +1,34 @@
+#global{
+  width:100%
+}
+#rectangle1{
+  background-color: #2ECC71;
+  float:left;
+  width:80%;
+}
+#rectangle2{
+  background-color: #2980B9
+  float:right;
+  width:20%
+}
+#rectangle3{
+  background-color: #E74C3C
+}
+#rectangle4{
+  background-color: #E67E22
+}
+#rectangle5{
+  background-color: #E95A5A6
+}
+#rectangle6{
+  background-color: #F39C12
+}
+#rectangle7{
+  background-color: #16A085
+}
+#rectangle8{
+    background-color: #D35400
+}
+#rectangle9{
+  background-color: #2C3E50
+}
