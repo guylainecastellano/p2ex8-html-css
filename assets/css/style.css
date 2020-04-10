@@ -1,34 +1,57 @@
-#global{
+.global{
   width:100%
 }
 #rectangle1{
   background-color: #2ECC71;
   float:left;
   width:80%;
+  height: 30px
 }
 #rectangle2{
-  background-color: #2980B9
+  background-color: #2980B9;
   float:right;
-  width:20%
+  width:20%;
+  height: 30px
 }
 #rectangle3{
-  background-color: #E74C3C
+  background-color: #E74C3C;
+  float:left;
+  width:30%;
+  height: 60px
 }
 #rectangle4{
-  background-color: #E67E22
+  background-color: #E67E22;
+  float:left;
+  width:35%;
+  height: 30px
 }
 #rectangle5{
-  background-color: #E95A5A6
+  background-color: #E95A56;
+  float:right;
+  width:35%;
+  height: 30px
 }
 #rectangle6{
-  background-color: #F39C12
+  background-color: #F39C12;
+  float:left;
+  width:20%;
+  height: 30px
 }
 #rectangle7{
-  background-color: #16A085
+  background-color: #16A085;
+  float:right;
+  width:25%;
+  height: 30px
 }
 #rectangle8{
-    background-color: #D35400
+  background-color: #D35400;
+  float:right;
+  width:25%;
+  height: 30px
 }
 #rectangle9{
-  background-color: #2C3E50
+  background-color: #2C3E50;
+  float:left;
+  width:100%;
+  height: 90px
 }
